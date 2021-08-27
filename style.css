@@ -1,0 +1,53 @@
+body{
+    background-color:oldlace;
+    text-align: justify;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    initial-letter-align: 2px;
+    font-size: 20px;
+
+}
+
+h1{
+    text-align: center;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color:brown;
+    border-bottom: 2px solid brown; 
+}
+h3{
+    text-align: left;
+}
+
+.imagem01{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    position: relative;
+
+}    
+.imagem2{
+    float: right;
+    width: 400px;
+    padding: 3%;
+    height: 350px;
+
+}
+
+.img{
+    width: 980px;
+}
+.imagem5{
+    float: left;
+    width: 260px;
+    padding: 3%;
+    height: 430px;
+}
+
